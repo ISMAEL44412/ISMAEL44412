@@ -51,33 +51,49 @@
 ## 📂 Proyectos
 
 ### 🛍 Sistema web para tienda de ropa
+
 Sistema desarrollado con Django, HTML, CSS y JavaScript.
 
+#### Funcionalidades
 - Gestión de productos y categorías.
 - Administración de información.
 - Manejo de base de datos.
 - Interfaz de visualización de productos.
 
-<a href="https://github.com/ismael44412/nombre-del-repo" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-### 🏨 Sistema de gestión para hotel
-
-Aplicación web desarrollada para la administración de empleados y horarios de clientes.
-
-## Funcionalidades
-- Gestión de empleados.
-- Administración de horarios y reservas.
-- Organización de información.
-- Manejo de base de datos.
-- Panel administrativo.
-
-## Tecnologías
+#### Tecnologías
 - Python
 - Django
 - HTML
 - CSS
 - JavaScript
 - SQLite/MySQL
+
+<a href="https://github.com/ismael44412/nombre-del-repo" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🏨 Sistema de gestión para hotel
+
+Aplicación web desarrollada para la administración de empleados y horarios de clientes.
+
+#### Funcionalidades
+- Gestión de empleados.
+- Administración de horarios y reservas.
+- Organización de información.
+- Manejo de base de datos.
+- Panel administrativo.
+
+#### Tecnologías
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- SQLite/MySQL
+
+<a href="https://github.com/ismael44412/nombre-del-repo" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
