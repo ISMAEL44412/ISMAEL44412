@@ -70,7 +70,7 @@ Sistema desarrollado con Django, HTML, CSS y JavaScript.
 - JavaScript
 - SQLite/MySQL
 
-<a href="https://github.com/ismael44412/REPO-TIENDA" target="_blank">
+<a href="https://github.com/ismael44412/Battaglia" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -95,7 +95,7 @@ Aplicación web desarrollada para la administración de empleados, reservas y ho
 - JavaScript
 - SQLite/MySQL
 
-<a href="https://github.com/ismael44412/REPO-HOTEL" target="_blank">
+<a href="https://github.com/ismael44412/proyect_motel" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
