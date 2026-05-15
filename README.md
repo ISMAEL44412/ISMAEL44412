@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋 Soy Ismael Romero</h1>
 
-<h3 align="center">Técnico en Análisis de Sistemas | Estudiante de Licenciatura en Sistemas</h3>
+<h3 align="center">
+Técnico en Análisis de Sistemas | Estudiante de Licenciatura en Sistemas
+</h3>
 
 <p align="center">
   <a href="https://github.com/ismael44412" target="_blank">
@@ -68,19 +70,19 @@ Sistema desarrollado con Django, HTML, CSS y JavaScript.
 - JavaScript
 - SQLite/MySQL
 
-<a href="https://github.com/ismael44412/nombre-del-repo" target="_blank">
+<a href="https://github.com/ismael44412/REPO-TIENDA" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
 
-### 🏨 Sistema de gestión para hotel
+### 🏨 Sistema de gestión hotelera
 
-Aplicación web desarrollada para la administración de empleados y horarios de clientes.
+Aplicación web desarrollada para la administración de empleados, reservas y horarios de clientes.
 
 #### Funcionalidades
 - Gestión de empleados.
-- Administración de horarios y reservas.
+- Administración de reservas y horarios.
 - Organización de información.
 - Manejo de base de datos.
 - Panel administrativo.
@@ -93,7 +95,18 @@ Aplicación web desarrollada para la administración de empleados y horarios de 
 - JavaScript
 - SQLite/MySQL
 
-<a href="https://github.com/ismael44412/nombre-del-repo" target="_blank">
+<a href="https://github.com/ismael44412/REPO-HOTEL" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ismael44412&show_icons=true&theme=tokyonight" />
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael44412&layout=compact&theme=tokyonight"/>
+</p>
