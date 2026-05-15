@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Ismael Romero</h1>
 
-<!--
-**ISMAEL44412/ISMAEL44412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Técnico en Análisis de Sistemas | Estudiante de Licenciatura en Sistemas</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ismael44412" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:rig8528@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+🎓 Técnico en Análisis de Sistemas Informáticos.  
+📚 Actualmente estudiando la Licenciatura en Análisis de Sistemas en la UNSa.  
+💻 Interesado en desarrollo web backend y full stack.  
+📌 Desarrollo proyectos personales utilizando Django y tecnologías web.  
+📍 Salta, Argentina.
+
+---
+
+## 🛠 Tecnologías
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</p>
+
+---
+
+## 📂 Proyectos
+
+### 🛍 Sistema web para tienda de ropa
+Sistema desarrollado con Django, HTML, CSS y JavaScript.
+
+- Gestión de productos y categorías.
+- Administración de información.
+- Manejo de base de datos.
+- Interfaz de visualización de productos.
+
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismael44412&show_icons=true&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael44412&layout=compact&theme=tokyonight"/>
+</p>
