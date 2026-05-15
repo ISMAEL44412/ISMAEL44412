@@ -12,6 +12,9 @@ Técnico en Análisis de Sistemas | Estudiante de Licenciatura en Sistemas
   <a href="mailto:rig8528@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://linkedin.com/in/ismael-romero-58740423b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -105,8 +108,8 @@ Aplicación web desarrollada para la administración de empleados, reservas y ho
 
 <p align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ismael44412&show_icons=true&theme=tokyonight" />
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ismael44412&show_icons=true&theme=github_dark" />
 
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael44412&layout=compact&theme=tokyonight"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ismael44412&layout=compact&theme=github_dark"/>
 </p>
