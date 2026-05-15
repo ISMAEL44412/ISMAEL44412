@@ -58,12 +58,10 @@ Sistema desarrollado con Django, HTML, CSS y JavaScript.
 - Manejo de base de datos.
 - Interfaz de visualización de productos.
 
----
+## 📂 Proyectos
 
-## 📈 Estadísticas
+### 🛍 Sistema web para tienda de ropa
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismael44412&show_icons=true&theme=tokyonight" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael44412&layout=compact&theme=tokyonight"/>
-</p>
+<a href="https://github.com/ismael44412/nombre-del-repo" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
