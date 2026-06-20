@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Ismael Romero</h1>
 
 <h3 align="center">
-Técnico en Análisis de Sistemas | Estudiante de Licenciatura en Sistemas
+Análisis de Sistemas
 </h3>
 
 <p align="center">
