@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Ismael Romero</h1>
 
 <h3 align="center">
-Análisis de Sistemas
+Soy Análista de Sistemas
 </h3>
 
 <p align="center">
